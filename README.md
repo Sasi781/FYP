@@ -1,7 +1,7 @@
-PRECIPS- PREDICTIONOFRESIDUESWITH
- ENHANCEDCHANGESINPROTEINSTRUCTURE
- UPONDRUGINTERACTION
-
+PRECIPS **- PREDICTION OF RESIDUE SWITH
+ ENHANCED CHANGES IN PROTEIN STRUCTURE
+ UPON DRUG INTERACTION
+**
 Understanding the interactions between drugs and proteins is crucial
 for drug discovery and development. This project focuses on predicting binding
 residues in a protein sequence following interaction with a drug, as well as
